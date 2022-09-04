@@ -1,6 +1,6 @@
 import numpy as np
 import projectLib as lib
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt //
 
 # shape is movie,user,rating
 training = lib.getTrainingData()
