@@ -2,6 +2,8 @@ import numpy as np
 import projectLib as lib
 import matplotlib.pyplot as plt
 
+###########################
+
 # shape is movie,user,rating
 training = lib.getTrainingData()
 validation = lib.getValidationData()
